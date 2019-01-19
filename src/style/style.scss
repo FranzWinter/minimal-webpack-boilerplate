@@ -1,0 +1,11 @@
+@import "fonts";
+
+.container {
+    font-family: $font-stack;
+    font-size: $font-size;
+    color: $primary-color;
+}
+
+h1 {
+    text-align: center;
+}
