@@ -24,7 +24,6 @@ All source files are organized in `src` folder
 │  ├──index.js          # main js file
 ```
 
-
 #### Development
 To run development server (handled by webpack-dev-server) on `localhost:8080`  
 ```npm run start```
